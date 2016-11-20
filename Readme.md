@@ -1,5 +1,7 @@
 #node-talib
 
+[![Build Status](https://travis-ci.org/grantchiu011101/node-talib.svg?branch=master)](https://travis-ci.org/grantchiu011101/node-talib)
+
 A thin [node.js](http://nodejs.org) wrapper around [TA-LIB](http://ta-lib.org/), a technical analysis library with 100+ [indicators](http://ta-lib.org/function.html) such as ADX, MACD, RSI, Stochastic, Bollinger Bands, TRIX and candlestick pattern recognition.
 
 ## Installation
